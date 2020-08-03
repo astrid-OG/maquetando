@@ -1,0 +1,51 @@
+{
+    "expertos": [
+        {
+            "circle":"24.png",
+            "image":"uno.png",
+            "name": "Sandra López",
+            "career": "Ingeniera civil",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut.",
+            "buton": "Ver Perfil"
+        },
+        {
+            "circle":"25.png",
+            "image":"dos.png",
+            "name": "Oscar Mejía",
+            "career": "Ingeniera civil",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut.",
+            "buton": "Ver Perfil"
+        },
+        {
+            "circle":"26.png",
+            "image":"tres.png",
+            "name": "Andrea Pachón",
+            "career": "Ingeniera civil",
+            "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut.",
+            "buton": "Ver Perfil"
+        }
+    ],
+    "proyectos":[
+        {
+            "image":"1.png",
+            "name":"Desarrollo E-commerce B2B",
+            "zone":"Sector Industrial",
+            "description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut.",
+            "buton":"Ver Proyecto"
+        },
+        {
+            "image":"3.png",
+            "name":"Auditoría fiscal",
+            "zone":"Sector Industrial",
+            "description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut.",
+            "buton":"Ver Proyecto"
+        },
+        {
+            "image":"2.png",
+            "name":"Gestión de Proyectos",
+            "zone":"Sector Industrial",
+            "description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut. sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut.",
+            "buton":"Ver Proyecto"
+        }
+    ]
+  }

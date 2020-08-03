@@ -2,9 +2,9 @@ import React from 'react';
 import './appBar.css';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
-import { fade, makeStyles } from '@material-ui/core/styles';
+import { makeStyles } from '@material-ui/core/styles';
 import MenuIcon from '@material-ui/icons/Menu';
-import {Button, Typography} from '@material-ui/core'
+import {Button} from '@material-ui/core'
 import Hidden from '@material-ui/core/Hidden';
 import IconButton from '@material-ui/core/IconButton';
 import {Person} from '@material-ui/icons';
@@ -59,9 +59,9 @@ export default function SearchAppBar() {
             <Button className={classes.boton}>Sobre Nosotros</Button>
             </Grid>
 
-            <div >
+            <Grid >
             <Button className={classes.boton} variant="contained" size='large'>Ingresar</Button>
-            </div>
+            </Grid>
 
         </Hidden >
 
@@ -76,7 +76,7 @@ export default function SearchAppBar() {
             <img src="LOGO.png" alt="logo" width='40%' ></img>
             </Grid>
             <Grid item xs={4} sm={4} align='right'>
-            <IconButton edge="start" className={classes.menuButton}  aria-label="ingresar" placeholder="Titulo">
+            <IconButton edge="start" className={classes.menuButton}  aria-label="ingresar">
               <Person></Person>
             </IconButton>
             </Grid>

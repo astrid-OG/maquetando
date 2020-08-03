@@ -1,48 +1,53 @@
 .circulo1 {
+    width: 280px;
+    height: 280px;
     margin-top: 20px;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background: #FF0079;
-    
+    box-sizing: border-box;
+   
 }
 
 .circulo2 {
-    margin-top: 20px;
+    width: 280px;
+    height: 280px;
+    margin-top: 12%;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background: #2F2D6D;
-    
-    
+    box-sizing: border-box;
+   
 }
 
 .circulo3 {
-    margin-top: 20px;
+    width: 280px;
+    height: 280px;
+    margin-top: 2%;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background: #00EDBA;
-
-    
+    box-sizing: border-box;
+   
 }
 
 .circulo4 {
-    margin-top: 20px;
+    width: 280px;
+    height: 280px;
+    margin-top: 12%;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background: #711EFF;
-   
-    
+    box-sizing: border-box;
+
 }
 
 .contained{
     background-color: #2C2A65;
-    display: flex;
-    justify-content: 'center';
-    align-items: 'center';
-    
 }
 
 .estilo {
